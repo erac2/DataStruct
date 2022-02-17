@@ -1,22 +1,9 @@
-package AnimalHierarchy;
+package edu.monmouth.assignment1;
 
 interface Animal {
 	
-	private static void CONSTANTS()
-	{
-		
-	static final int NUMBEROFANIMALS = 30;
+	public void move(); //makes animal move
+	public void makeSound(); //makes animal make sound
 	
-	}
-//	int[] Animals = new int[NUMBEROFANIMALS];
 	
-	Species []typeAnimals2 = new Species[];
-	
-	public void move(){
-
-	}
-	
-	public void madeSound(){
-		
-	}
 }
