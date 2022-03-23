@@ -140,15 +140,15 @@ public class HW3 {
 			System.out.println("");
 		}
 
-		if(books2.contains("Data Structures and Algorithms,SOFTBACK,426,79.99")) {
-			System.out.println("The LinkedList Contains");
+		if(books2.contains(new Book(426,79.99,"Data Structures and Algorithms",bookType.SOFTBACK))) {
+			System.out.println("The LinkedList contains the book");
 		}
 		else {
 			System.out.println("The LinkedList does not contain");
 		}
 		
-		if(books2.contains("Eater")) {
-			System.out.println("The LinkedList Contains");
+		if(books2.contains(new Book(428, 79.99, "Data Structures and Cars",bookType.ELECTRONIC))) {
+			System.out.println("The LinkedList contains");
 		}
 		else {
 			System.out.println("The LinkedList does not contain");
@@ -161,7 +161,6 @@ public class HW3 {
 		} catch(IndexOutOfBoundsException i) {
 			System.out.println("Out of Range: " + i);
 		}
-		
 		
 		//Removes the 80th index. Could possibly 
 		try {
