@@ -1,68 +1,83 @@
 package edu.monmouth.book;
-import edu.monmouth.book.*;
 
-import edu.monmouth.hw2.BookTypes;
 
 public class Book {
 
-	int pages;
-	double price;
-	String title;
-	BookTypes bookType;
-
-	public Book(int pages, double price, String title, BookTypes bookType) {
-		this.pages = pages;
-		this.price = price;
-		this.title = title;
-		this.bookType = bookType;
-	}
+	private int pages;
+	private double price;
+	private String title;
+	private bookType bookType;
 	
-	public int pages(int pages) {
+	public Book() {
+		
+	}
+
+	public Book(int pages, double price, String title, bookType bookType) throws BookException{
+		this.title = title;
+		this.price = price;
+		this.pages = pages;
+		this.bookType = bookType;
+		
+		setPages(pages);
+		setPrice(price);
+		setTitle(title);
+		setBookType(bookType);
+	}
+
+	public int getNumbPages() {
 		return pages;
 	}
-	
-	public void setPages(int pages){
 
-		this.pages = pages;
-		if(pages<=0) {
+	public void setPages(int pages) throws BookException{
+
+		if(pages<0) {
 			System.out.println("Invalid Number of Pages");
-			}
-			}
-		
-	
-	public double price() {
+		}
+		else {
+			this.pages = pages;
+		}
+	}
+
+
+	public double getPrice() {
 		return price;
 	}
-	
+
 	public void setPrice(double price) {
-		this.price = price;
 		if(price<0) {
 			System.out.println("Invalid Price");
 		}
+		else {
+			this.price = price;
+		}
 	}
-	
-	public String title(String title) {
+
+	public String getTitle() {
 		return title;
 	}
-	
+
 	public void setTitle(String title) throws BookException{
-		this.title = title;
+
 		if(title.length() == 0 || title==null) {
 			System.out.println("Invalid Title Name");
 		}
+		else {
+			this.title = title;
+		}
 	}
-	
-	public BookTypes bookType() {
+
+	public bookType getBookType() {
 		return bookType;
 	}
-	
-	public void setBookType(BookTypes bookType) {
+
+	public void setBookType(bookType bookType) throws BookException {
 		this.bookType = bookType;
 	}
-	
+
+	@Override
 	public String toString() {
-		return "Title: " + title + "\n"
+		return "[Title: " + title + "\n"
 				+ "Pages: " + pages + "\n"
 				+ "Price: $" + price + "\n"
-				+ "Book Type: " + bookType;
+				+ "Book Type: " + bookType + "]";
 	}}

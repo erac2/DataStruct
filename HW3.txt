@@ -1,0 +1,252 @@
+[Monmouth University, West Long Branch, February, Cloud Computing, Data Structures, MacBook, Spacex]
+[Monmouth University, West Long Branch, February, Cloud Computing, Data Structures, MacBook, Spacex]
+
+[Title: The Lord of the Rings
+Pages: 120
+Price: $29.99
+Book Type: HARDBACK]
+
+[Title: Data Structures and Algorithms
+Pages: 426
+Price: $79.99
+Book Type: SOFTBACK]
+
+[Title: The Hobbit
+Pages: 212
+Price: $32.5
+Book Type: HARDBACK]
+
+Invalid Number of Pages
+[Title: Harry Potter and the Goblet of Fire
+Pages: 0
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: The Da Vinci Code
+Pages: 253
+Price: $25.0
+Book Type: HARDBACK]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $19.99
+Book Type: SOFTBACK]
+
+Invalid Price
+[Title: Harry Potter and the Prisoner of Azkaban
+Pages: 546
+Price: $0.0
+Book Type: HARDBACK]
+
+[Title: Harry Potter and the Half-Blood Prince
+Pages: 439
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $39.99
+Book Type: HARDBACK]
+
+[Title: Opus 200
+Pages: 320
+Price: $40.99
+Book Type: HARDBACK]
+
+[Title: The Soloman Curse
+Pages: 829
+Price: $23.95
+Book Type: HARDBACK]
+
+Invalid Title Name
+[Title: null
+Pages: 92
+Price: $22.99
+Book Type: HARDBACK]
+
+[Title: American Sniper
+Pages: 320
+Price: $16.2
+Book Type: HARDBACK]
+
+[Title: The Girl on the Train
+Pages: 391
+Price: $23.87
+Book Type: SOFTBACK]
+
+[Title: Citizen Soldier
+Pages: 231
+Price: $54.99
+Book Type: HARDBACK]
+
+It's not Empty
+Size: 6
+Monmouth University
+February
+Cloud Computing
+Data Structures
+MacBook
+Spacex
+Monmouth Class
+
+Monmouth Class
+Spacex
+MacBook
+Data Structures
+Cloud Computing
+February
+Monmouth University
+
+[Title: Citizen Soldier
+Pages: 231
+Price: $54.99
+Book Type: HARDBACK]
+
+[Title: The Girl on the Train
+Pages: 391
+Price: $23.87
+Book Type: SOFTBACK]
+
+[Title: American Sniper
+Pages: 320
+Price: $16.2
+Book Type: HARDBACK]
+
+[Title: null
+Pages: 92
+Price: $22.99
+Book Type: HARDBACK]
+
+[Title: The Soloman Curse
+Pages: 829
+Price: $23.95
+Book Type: HARDBACK]
+
+[Title: Opus 200
+Pages: 320
+Price: $40.99
+Book Type: HARDBACK]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $39.99
+Book Type: HARDBACK]
+
+[Title: Harry Potter and the Half-Blood Prince
+Pages: 439
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: Harry Potter and the Prisoner of Azkaban
+Pages: 546
+Price: $0.0
+Book Type: HARDBACK]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $19.99
+Book Type: SOFTBACK]
+
+[Title: The Da Vinci Code
+Pages: 253
+Price: $25.0
+Book Type: HARDBACK]
+
+[Title: Harry Potter and the Goblet of Fire
+Pages: 0
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: The Hobbit
+Pages: 212
+Price: $32.5
+Book Type: HARDBACK]
+
+[Title: Data Structures and Algorithms
+Pages: 426
+Price: $79.99
+Book Type: SOFTBACK]
+
+[Title: The Lord of the Rings
+Pages: 120
+Price: $29.99
+Book Type: HARDBACK]
+
+
+[Title: The Lord of the Rings
+Pages: 120
+Price: $29.99
+Book Type: HARDBACK]
+
+[Title: Data Structures and Algorithms
+Pages: 426
+Price: $79.99
+Book Type: SOFTBACK]
+
+[Title: The Hobbit
+Pages: 212
+Price: $32.5
+Book Type: HARDBACK]
+
+[Title: Harry Potter and the Goblet of Fire
+Pages: 0
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: The Da Vinci Code
+Pages: 253
+Price: $25.0
+Book Type: HARDBACK]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $19.99
+Book Type: SOFTBACK]
+
+[Title: Harry Potter and the Prisoner of Azkaban
+Pages: 546
+Price: $0.0
+Book Type: HARDBACK]
+
+[Title: Harry Potter and the Half-Blood Prince
+Pages: 439
+Price: $19.99
+Book Type: ELECTRONIC]
+
+[Title: And Then There Were None
+Pages: 156
+Price: $39.99
+Book Type: HARDBACK]
+
+[Title: Opus 200
+Pages: 320
+Price: $40.99
+Book Type: HARDBACK]
+
+[Title: The Soloman Curse
+Pages: 829
+Price: $23.95
+Book Type: HARDBACK]
+
+[Title: null
+Pages: 92
+Price: $22.99
+Book Type: HARDBACK]
+
+[Title: American Sniper
+Pages: 320
+Price: $16.2
+Book Type: HARDBACK]
+
+[Title: The Girl on the Train
+Pages: 391
+Price: $23.87
+Book Type: SOFTBACK]
+
+[Title: Citizen Soldier
+Pages: 231
+Price: $54.99
+Book Type: HARDBACK]
+
+The LinkedList does not contain
+Out of Range: java.lang.IndexOutOfBoundsException: Index: 80, Size: 14
