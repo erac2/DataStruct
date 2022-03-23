@@ -140,7 +140,14 @@ public class HW3 {
 			System.out.println("");
 		}
 
-		if(books2.contains("Sniper")) {
+		if(books2.contains("Data Structures and Algorithms,SOFTBACK,426,79.99")) {
+			System.out.println("The LinkedList Contains");
+		}
+		else {
+			System.out.println("The LinkedList does not contain");
+		}
+		
+		if(books2.contains("Eater")) {
 			System.out.println("The LinkedList Contains");
 		}
 		else {
